@@ -1,5 +1,5 @@
 #task_1 flipkart product
-product_name="smart watch"
+product_name="smart phone"
 price=20000
 is_availble=True
 ratting=8.5
